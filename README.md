@@ -1,2 +1,2 @@
-# docker_image_puller
-Pull &amp; unpack docker image without docker installed.
+# Discarded project
+Please use [rurima](https://github.com/Moe-hacker/rurima) instead.
